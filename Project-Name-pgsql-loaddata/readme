@@ -1,0 +1,4 @@
+liquibase.jar need to be in 'liquibase' directory
+postgresql-9.4.1212.jre7.jar need to be in 'liquibase' directory
+distribution/ directory in 'liquibase' directory
+

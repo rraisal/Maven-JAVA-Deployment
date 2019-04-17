@@ -1,0 +1,10 @@
+Following dependencies to be fetched from the Repositories
+
+zookeeper-3.4.12 in current directory
+zkui-2.0.jar in the zkui directory
+XXXX.cfg from the project location
+
+Bind mount the /usr/local/zookeeper/log for the persistance of zookeeper conf
+
+BUILD CMD
+sudo docker image build -t zookeeper_raisal .
